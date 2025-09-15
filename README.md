@@ -859,13 +859,6 @@ This appendix visually ties the **literature-backed area estimates** to our **�
 ---
 
 
-
-
-
-Awesome — here’s a concise, reference-backed **Energy Budget Appendix** that pairs with Section 6. I’ve kept it tight, numeric, and justified with citations right where they’re used.
-
----
-
 ## **Appendix B – Energy Budget (TSMC 28 nm)**
 
 ### **B.1 Assumptions & Node Facts**
