@@ -253,7 +253,7 @@ This separation ensures **clear boundaries**, **easier verification**, and **sca
 
 ## **4. Implementation Strategy & Rough Timeline**
 
-Our implementation follows the **classic ASIC flow**—from architecture specification to RTL design, verification, physical design, and tape-out—aligned with EE599 deadlines. Each phase is scoped to deliver concrete artifacts.
+Our implementation follows the **classic ASIC flow** from architecture specification to RTL design, verification, physical design, and tape-out aligned with EE599 deadlines. Each phase is scoped to deliver concrete artifacts.
 
 ---
 
