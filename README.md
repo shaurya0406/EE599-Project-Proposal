@@ -454,13 +454,6 @@ These will be scripted into regression campaigns.
 
 
 
-Here’s a refined **Section 6** with the EEA (Energy, Efficiency, Area) targets updated to *TSMC 28 nm* node, along with literature-backed references for area estimates. Wherever I've used a paper or source, I've explicitly cited it.
-
----
-
-Got it — here’s **Section 6** with **EEA (Energy, Efficiency, Area)** targets for **TSMC 28 nm**, and with an explicit reference (hyperlinked via citation) everywhere a quantitative estimate appears.
-
----
 
 ## 6. Physical Design & EEA Strategy (TSMC 28 nm)
 
@@ -761,13 +754,6 @@ The project will culminate in a **lab demonstration** designed to convincingly v
 
 ---
 
-Perfect — let’s wrap up with a **References section** that consolidates all the citations we’ve used so far (RISC-V, CORDIC, crypto, SRAM density, process libraries, etc.). I’ll format it in **IEEE style** since that’s the most common for VLSI/ASIC proposals.
-
----
-
-Perfect — let’s make **Section 10: References** the final section, consolidating everything we’ve cited so far. I’ll format it in clean **Markdown academic style**, with hyperlinks where possible so professors/Apple engineers can click directly.
-
----
 
 ## **10. References**
 
